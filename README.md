@@ -15,21 +15,21 @@ Esboço do projeto final:
 
 Tags utilizadas e sua função:
 
-"<!DOCTYPE html> Definir a versão do html
-<html lang=""> Definir linguagem da página
-<meta charset="UTF-8"> Definir informações de encoding
-<head> Separar informações passadas
-<body> Separar o conteúdo da página
-<header> Definir cabeçalho
-<div> Definir divisões de conteúdo
-<h1><h2><h3> Definir Título
-<title> Definir Título da página
-<p> Definir Parágrafo
-<strong> Definir atributo negrito ao texto
-<em> Definir atributo itálico ao texto
-<ul> Definir Lista desordenada
-<li> Definir os itens de uma lista
-<style> Passar as propriedades do CSS "
+DOCTYPE html - Definir a versão do html
+html lang="pt-br" - Definir linguagem da página
+meta charset="UTF-8"- Definir informações de encoding
+head - Separar informações passadas
+body - Separar o conteúdo da página
+header - Definir cabeçalho
+div - Definir divisões de conteúdo
+h1 - Definir Título
+title - Definir Título da página
+p - Definir Parágrafo
+strong - Definir atributo negrito ao texto
+em - Definir atributo itálico ao texto
+ul - Definir Lista desordenada
+li - Definir os itens de uma lista
+style - Passar as propriedades do CSS 
 
 
 
