@@ -15,7 +15,7 @@ Esboço do projeto final:
 
 Tags utilizadas e sua função:
 
-<!DOCTYPE html> Definir a versão do html
+"<!DOCTYPE html> Definir a versão do html
 <html lang=""> Definir linguagem da página
 <meta charset="UTF-8"> Definir informações de encoding
 <head> Separar informações passadas
@@ -29,7 +29,7 @@ Tags utilizadas e sua função:
 <em> Definir atributo itálico ao texto
 <ul> Definir Lista desordenada
 <li> Definir os itens de uma lista
-<style> Passar as propriedades do CSS 
+<style> Passar as propriedades do CSS "
 
 
 
