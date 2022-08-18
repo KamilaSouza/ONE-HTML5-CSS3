@@ -23,15 +23,14 @@ Melhorando a página da Barbearia Alura, adicionados:
 
 Esboço do projeto final da parte 2:
 
-&#128204; Página de Produtos com cabeçalho: <br>
+&#128204; Página de Produtos com cabeçalho: 
 ![image](https://user-images.githubusercontent.com/78876332/185470982-adfc490c-5599-443c-9234-9c043b9516eb.png)
-<br>
-&#128204; Produtos e rodapé: <br>
 
+&#128204; Produtos e rodapé: 
 ![image](https://user-images.githubusercontent.com/78876332/185471081-b6ade756-0d1d-4b71-9df1-84a0208ac045.png)
-<br>
 
-&#128204; Nova página inicial: <br>
+
+&#128204; Nova página inicial: 
 ![image](https://user-images.githubusercontent.com/78876332/185471185-dc3d3025-c1be-41c8-a8ec-ec0d1eb04a8b.png)
 
 
