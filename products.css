@@ -28,10 +28,16 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color: rgb(32, 99, 161);
+    text-decoration: underline;
+}
+
 .products {
     width: 80%;
-    margin: 0 auto;
+    margin: auto;
     padding: 50px 0;
+
 }
 
 .products li {
@@ -44,6 +50,19 @@ nav a {
     box-sizing: border-box;
     border: 2px solid #000000;
     border-radius: 10px;
+}
+
+.products li:hover {
+    border-color: rgb(32, 99, 161);
+}
+
+.products li:hover h2 {
+    border-color: rgb(32, 99, 161);
+    font-size: 38px;
+}
+
+.products li:active {
+    border-color: #0a5737;
 }
 
 .products h2 {
@@ -59,4 +78,16 @@ nav a {
 
 .productDescription {
     font-size: 18px;
+}
+
+footer {
+    background: url("bg.jpg");
+    text-align: center;
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin-top: 20px;
 }
