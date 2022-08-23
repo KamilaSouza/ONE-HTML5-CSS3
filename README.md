@@ -23,16 +23,26 @@ Melhorando a página da Barbearia Alura, adicionados:
 
 Esboço do projeto final da parte 2:
 
-&#128204; Página de Produtos com cabeçalho: 
 ![image](https://user-images.githubusercontent.com/78876332/185470982-adfc490c-5599-443c-9234-9c043b9516eb.png)
-
-&#128204; Produtos e rodapé: 
 ![image](https://user-images.githubusercontent.com/78876332/185471081-b6ade756-0d1d-4b71-9df1-84a0208ac045.png)
-
-
-&#128204; Nova página inicial: 
 ![image](https://user-images.githubusercontent.com/78876332/185471185-dc3d3025-c1be-41c8-a8ec-ec0d1eb04a8b.png)
 
+
+Curso HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas<br><br>
+
+Criada a página de contato da Barbearia Alura, adicionados:<br><br>
+
+&#128204; Formulário para contato;<br>
+&#128204; Campos específicos para nome, email e telefone;<br>
+&#128204; Formulário com opções selecionáveis para meio de contato (email, ligação e whatsapp);<br>
+&#128204; Checkbox para receber novidades por email;<br>
+&#128204; Botão de enviar iterativo;<br>
+&#128204; Tabela de horário de funcionamento;<br>
+
+Esboço do projeto final da parte 3:
+
+![image](https://user-images.githubusercontent.com/78876332/186234053-2a81dd4d-60b9-43c6-a669-3cd94c508854.png)
+![image](https://user-images.githubusercontent.com/78876332/186234192-e235fcbf-2679-4385-b26f-ccbfeaefe6db.png)
 
 
 

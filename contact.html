@@ -12,7 +12,7 @@
 <body>
     <header>
         <div class="box">
-            <h1><img src="logo.png"></h1>
+            <h1><img src="logo.png" alt="Logo da Barbearia Alura"></h1>
             <nav>
                 <ul>
                     <li><a href="home.html">Home</a></li>
@@ -26,46 +26,71 @@
     <main>
         <form>
             <label for="name"> Nome e sobrenome</label>
-            <input type="text" id="name" class="defaultInput">
+            <input type="text" id="name" class="defaultInput" required>
 
             <label for="email">Email</label>
-            <input type="text" id="email" class="defaultInput">
+            <input type="email" id="email" class="defaultInput" required placeholder="email@dominio.com">
 
             <label for="fone">Telefone</label>
-            <input type="text" id="fone" class="defaultInput">
+            <input type="tel" id="fone" class="defaultInput" required placeholder="(xx) xxxxx-xxxx">
 
             <label for="message">Mensagem</label>
-            <textarea cols="70" rows="10" id="message" class="defaultInput"></textarea>
+            <textarea cols="70" rows="10" id="message" class="defaultInput" required></textarea>
 
-            <div>
-                <p>Como prefere nosso contato?</p>
+            <fieldset>
+                <legend>Como prefere nosso contato?</p>
 
-                <label for="radioEmail"><input type="radio" name="contact" value="Email" id="radioEmail">Email</label>
+                    <label for="radioEmail"><input type="radio" name="contact" value="Email"
+                            id="radioEmail">Email</label>
 
-                <label for="radioCall"><input type="radio" name="contact" value="Ligação" id="radioCall">Ligação</label>
+                    <label for="radioCall"><input type="radio" name="contact" value="Ligação"
+                            id="radioCall">Ligação</label>
 
-                <label for="radioWhatsapp"><input type="radio" name="contact" value="Whatsapp"
-                        id="radioWhatsapp">Whatsapp</label>
-            </div>
+                    <label for="radioWhatsapp"><input type="radio" name="contact" value="Whatsapp" id="radioWhatsapp"
+                            checked>Whatsapp</label>
+            </fieldset>
 
-            <div>
-                <p>Qual horário prefere ser atendido?</p>
-                <select>
-                    <option>Manhã</option>
-                    <option>Tarde</option>
-                    <option>Noite</option>
-                </select>
-            </div>
+            <fieldset>
+                <legend>Qual horário prefere ser atendido?</p>
+                    <select>
+                        <option>Manhã</option>
+                        <option>Tarde</option>
+                        <option>Noite</option>
+                    </select>
+            </fieldset>
 
-            <label class="checkbox"><input type="checkbox"> Gostaria de receber nossas novidades por email?</label>
+            <label class="checkbox"><input type="checkbox" checked> Gostaria de receber nossas novidades por
+                email?</label>
 
-            <input type="submit" value="Enviar Formulário">
-
+            <input type="submit" value="Enviar Formulário" class="send">
         </form>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Dia</th>
+                    <th>Horário</t>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Segunda</td>
+                    <td>8h - 20h</td>
+                </tr>
+                <tr>
+                    <td>Quarta</td>
+                    <td>8h - 20h</td>
+                </tr>
+                <tr>
+                    <td>Sexta</td>
+                    <td>8h - 20h</td>
+                </tr>
+            </tbody>
+        </table>
     </main>
 
     <footer>
-        <img src="white-logo.png">
+        <img src="white-logo.png" alt="Logo da Barbearia Alura">
         <p class="copyright"> &copy Barbearia Alura - 2022</p>
     </footer>
 </body>

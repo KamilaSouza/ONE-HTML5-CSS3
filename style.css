@@ -94,6 +94,7 @@ h3 {
 
 .items:hover {
     border-color: rgb(32, 99, 161);
+    transform: scale(1.05);
 }
 
 footer {
