@@ -28,9 +28,9 @@ Esboço do projeto final da parte 2:
 ![image](https://user-images.githubusercontent.com/78876332/185471185-dc3d3025-c1be-41c8-a8ec-ec0d1eb04a8b.png)
 
 
-Curso HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas<br><br>
+Curso HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas.<br>
 
-Criada a página de contato da Barbearia Alura, adicionados:<br><br>
+Criada a página de contato da Barbearia Alura, adicionados:<br>
 
 &#128204; Formulário para contato;<br>
 &#128204; Campos específicos para nome, email e telefone;<br>
