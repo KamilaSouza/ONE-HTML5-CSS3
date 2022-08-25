@@ -33,6 +33,10 @@ nav a:hover {
     text-decoration: underline;
 }
 
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .products {
     width: 80%;
     margin: auto;
