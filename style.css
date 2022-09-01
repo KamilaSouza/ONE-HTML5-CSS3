@@ -49,15 +49,25 @@ body {
 }
 
 .principalTitle {
-    margin:0 0 1em;
+    margin: 0 0 1em;
     text-align: center;
     font-weight: bold;
     font-size: 2em;
     clear: left;
 }
 
+.principal {
+    background: #FEFEFE;
+}
+
+.principalContent {
+    width: 80%;
+    margin: 0 auto;
+}
+
 .principal p {
     margin: 0 0 1em;
+    line-height: 1.5;
 }
 
 .principal em {
@@ -84,10 +94,15 @@ h3 {
 }
 
 .benefits {
-    width: 80%;
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
+    background: #888888;
+}
+
+.benefitsContent {
+    width: 80%;
+    margin: 0 auto;
 }
 
 .items {
@@ -103,15 +118,23 @@ h3 {
     border-radius: 10px;
 }
 
+.items:before {
+    content: "★";
+}
+
 .items:hover {
     border-color: rgb(32, 99, 161);
     transform: scale(1.05);
 }
 
 .map {
+    padding: 3em 0;
+    background: linear-gradient(#FEFEFE, #888888);
+}
+
+.mapContent {
     width: 80%;
-    margin: 1em auto;
-    padding: 3em 0 ;
+    margin: 0 auto;
 }
 
 .map p {
