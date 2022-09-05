@@ -95,3 +95,29 @@ footer {
     font-size: 13px;
     margin-top: 20px;
 }
+
+@media screen and (max-width:480px) {
+
+    .box,
+    .principalContent,
+    .benefitsContent,
+    .mapContent,
+    .video {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    .products li {
+        width: 100%;
+        border: none;
+        text-align: center;
+        margin-top: 20px;
+    }
+}
