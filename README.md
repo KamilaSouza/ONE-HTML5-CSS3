@@ -45,6 +45,26 @@ Esboço do projeto final da parte 3:
 ![image](https://user-images.githubusercontent.com/78876332/186234192-e235fcbf-2679-4385-b26f-ccbfeaefe6db.png)
 
 
+Curso HTML5 e CSS3 parte 4: avançando no CSS.<br>
+
+A fonte do site foi alterada, além disso, foram adicionadas melhorias na página inicial:<br>
+
+&#128204; Mapa com a localização do estabelecimento;<br>
+&#128204; Video informativo;<br>
+&#128204; Recursos visuais como imagens e sombras;<br>
+
+Esboço do projeto final do curso:<br>
+
+![image](https://user-images.githubusercontent.com/78876332/188498602-cbc5e527-4756-4e7b-b844-3a3d6f7d5cb6.png)
+![image](https://user-images.githubusercontent.com/78876332/188498683-2e366785-cf2b-42ce-b85d-0faacd9d00cc.png)
+![image](https://user-images.githubusercontent.com/78876332/188498907-4c17c066-2900-4928-8a9c-6aeec14811e8.png)
+
+Também foram adicionados funções para uma melhor visualização durante o uso de dispositivos mobile:<br>
+
+![image](https://user-images.githubusercontent.com/78876332/188499822-cc704750-31e0-48e9-b915-450bbc45d3eb.png) 
+![image](https://user-images.githubusercontent.com/78876332/188499859-5c914ac2-9468-46fa-a082-dde4bd4c9b35.png)
+
+
 
 
 
